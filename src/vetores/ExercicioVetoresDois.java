@@ -9,7 +9,7 @@ public class ExercicioVetoresDois {
 
         Scanner leia = new Scanner(System.in);
 
-        System.out.print("Digite um número para buscar no vetor: ");
+        System.out.print("Digite um número para buscar no vetor: "); 
         int num = leia.nextInt();
 
         int posicao = -1;
